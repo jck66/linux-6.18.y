@@ -253,3 +253,15 @@
 &ir {
 	status = "okay";
 };
+
+&ahub_dam_plat {
+	status = "okay";
+};
+
+&ahub1_plat {
+	status = "okay";
+};
+
+&ahub1_mach {
+	status = "okay";
+};
