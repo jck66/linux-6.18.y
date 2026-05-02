@@ -19,6 +19,7 @@ dtb-$(CONFIG_ARCH_MESON) += meson-g12a-fbx8am-realtek.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-radxa-zero.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-s905l3a-cm311.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-s905l3a-e900v22c.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-g12a-s905l3a-m401a-wifi.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-s905l3a-m401a.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-sei510.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-u200.dtb
